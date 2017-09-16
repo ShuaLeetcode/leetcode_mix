@@ -1,0 +1,2 @@
+{:032b}.format(n)将n形成32位二进制数
+string[::-1]反转string
